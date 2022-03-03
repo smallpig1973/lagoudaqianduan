@@ -14,7 +14,7 @@ lg大前端前端高薪学习计划 笔记汇总【八阶段完整版】Promise 
 提取码：z5ee
 
 
-失效++\/:cowcow2100
+失效++\\/:cowcow2100
 
 ![002](https://user-images.githubusercontent.com/91378327/156482764-a417cb81-afcd-4d09-be0b-cfa2614c8107.png)
 ![003](https://user-images.githubusercontent.com/91378327/156482773-39049c7d-37b2-457b-92bd-99dd81adca1f.png)
